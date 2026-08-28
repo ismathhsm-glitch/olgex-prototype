@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OlgaxInvoice.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+893309d86ef51beaa69b80106abf8b441d24081b")]
 [assembly: System.Reflection.AssemblyProductAttribute("OlgaxInvoice.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OlgaxInvoice.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

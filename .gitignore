@@ -1,0 +1,23 @@
+# .NET
+**/bin/
+**/obj/
+
+# Database runtime files
+*.db-shm
+*.db-wal
+
+# Environment
+.env
+.env.*
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vs/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
