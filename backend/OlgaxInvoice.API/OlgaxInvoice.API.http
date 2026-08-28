@@ -1,0 +1,6 @@
+@OlgaxInvoice.API_HostAddress = http://localhost:5048
+
+GET {{OlgaxInvoice.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
