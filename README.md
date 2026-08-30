@@ -330,18 +330,7 @@ olgax-invoice/
 
 ---
 
-# 🚀 Installation & Setup
-
-## Prerequisites
-
-Make sure the following are installed:
-
-* .NET SDK
-* Node.js
-* npm
-* Git
-
----
+ 
 
 # ⚙️ Backend Setup
 
