@@ -276,26 +276,7 @@ Clients can securely:
 
 # 🛠️ Technology Stack
 
-## Frontend
 
-* React
-* TypeScript
-* Vite
-* Tailwind CSS
-* shadcn/ui
-* Recharts
-* jsPDF
-
-## Backend
-
-* ASP.NET Core
-* C#
-* REST API
-* JWT Authentication
-* Entity Framework Core
-* Swagger / OpenAPI
-
-## Database
 
 * SQLite for current development
 * PostgreSQL as the target production database
