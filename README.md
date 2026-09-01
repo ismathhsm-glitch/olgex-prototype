@@ -268,7 +268,7 @@ Clients can securely:
 ┌─────────────────────────────┐
 │          Database           │
 │           SQLite            │
-│      PostgreSQL Ready       │
+│           │
 └─────────────────────────────┘
 ```
 
